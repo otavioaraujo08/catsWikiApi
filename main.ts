@@ -1,4 +1,4 @@
-const helloWorldGuys = (name: string): string => {
+export const helloWorldGuys = (name: string): string => {
     return `Have a nice week, Mr(s) ${name}`
 }
 
